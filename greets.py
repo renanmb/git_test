@@ -1,0 +1,1 @@
+greetings = ['apples','bananas','oranges']
